@@ -1,10 +1,9 @@
 package PavanSir.HashMap;
 
-import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class HashMapVariation2 {
+public class HashMapVariation2SumUpToThatIndex {
     public static void main(String[] args) {
         HashMap<Integer,Integer> h = new HashMap<>();
         int[] a = {10,20,30,40,50,60};
